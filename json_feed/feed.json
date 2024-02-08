@@ -1,0 +1,24 @@
+{
+    "articles": [{
+        "id": "01",
+        "url": "https://www.retailgazette.co.uk/blog/2024/02/co-op-secure-tills/",
+        "author_id": "Aoife Morgan",
+        "published_date": "February 7, 2024",
+        "body": "<h2>Co-op rolls out AI tech and secure till kiosks amid shoplifting surge</h2>\n<p>Co-op is installing more than 200 secure till kiosks, locked cabinets for spirits and AI technology to monitor self-checkouts in a bid to tackle a rise in retail crime.\nIt comes as the convenience chain reported shoplifting incidents in its stores had rocketed 48% last year, while abuse and harassment cases had surged 44%.\nCo-op has spent £200m on new security measures, including additional guards and undercover teams for crime hotspots, The Guardian reported.\nThe retailer said its undercover security guards had detained 3,361 individuals across its more than 2,400 store estate last year for a range of offences including burglary, abuse and harassment.\nCo-op food managing director Matt Hood said: “This is not a few opportunistic shoplifters becoming more prolific. This is organised crime and looting.”</p>"
+    },
+    {
+        "id": "02",
+        "url": "https://www.retailgazette.co.uk/blog/2024/02/amazon-fashion-resale/",
+        "author_id": "Aoife Morgan",
+        "published_date": "February 7, 2024",
+        "body": "<h2>Amazon Fashion teams up with resale platform Hardly Ever Worn It</h2>\n<p>Amazon’s fashion arm has teamed up with London-based resale platform Hardly Ever Worn It (HEWI) to allow customers to purchase pre-owned luxury goods through its website.\nThe tie-up sees HEWI take up a digital storefront on Amazon, with orders fulfilled and dispatched by the resale platform.\nCustomers in the UK, Italy, Spain and Germany can now purchase pre-loved clothing, footwear and accessories of luxury fashion houses like Chanel and Prada on Amazon.</p>" 
+    },
+    {
+        "id": "03",
+        "url": "https://www.retailgazette.co.uk/blog/2024/02/asda-new-managing-director/",
+        "author_id": "Eloise Hill",
+        "published_date": "February 6, 2024",
+        "body": "<h2>Asda promotes from within for new convenience MD</h2>\n<p>Asda has promoted its former vice president and group property director Chris Walker as managing director of its Express stores.\nWalker began the role in January and now leads the convenience stores growth including retail and operations, promotions, commercial ranging and customer proposition operations.\nThe grocery giant said he would be supported by its senior directors across central retail operations, commercial, retail field operations, finance and people.</p>" 
+    }
+]
+}
